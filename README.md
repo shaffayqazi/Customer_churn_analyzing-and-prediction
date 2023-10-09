@@ -16,6 +16,6 @@ The benefits of telecom customer churn prediction are twofold. First, it enables
 In summary, telecom customer churn prediction is a valuable tool for telecom providers to enhance customer retention efforts, reduce revenue loss, and improve overall customer satisfaction by foreseeing and addressing potential churn before it occurs.
 
 
-
+https://medium.com/@abdulshaffayqazi/predicting-telecom-customer-churn-using-data-science-ef1e92faa535
 
 
