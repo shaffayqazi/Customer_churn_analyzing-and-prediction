@@ -41,26 +41,24 @@ The dataset used for this project contains information about telecom customers, 
 - `Tenure in Months`: The number of months the customer has been with the telecom service.
 - `Churn Category`: The reason for churn, categorized into different classes (e.g., high charges, service-related issues, unknown reasons).
 
-The dataset's concept revolves around using this information to predict which customers are likely to churn and understanding the factors influencing churn. Through data preprocessing, exploratory data analysis (EDA), feature selection, and the implementation of a Random Forest classification model, we aim to achieve this objective.
+The dataset's concept revolves around using this information to predict which customers are likely to churn and understand the factors influencing churn. Through data preprocessing, exploratory data analysis (EDA), feature selection, and the implementation of a Random Forest classification model, we aim to achieve this objective.
 
 ## Project Structure
-
-- `data/`: This directory contains the dataset in CSV format.
-- `notebooks/`: Jupyter notebooks used for data analysis, preprocessing, and modeling.
-- `images/`: Images used in the project for visualizations.
+- `DSA_Final_CEP.ipynb`: the file contains the code.
+- `telecom_customer_churn.csv`: the file contains the dataset.
 - `README.md`: The documentation file you are currently reading.
 
 ## How to Run the Project
 
 1. Clone the repository to your local machine.
-2. Ensure you have the required Python libraries installed. You can use `pip install -r requirements.txt` to install them.
-3. Open and run the Jupyter notebooks in the `notebooks/` directory in the specified order to follow the project's progression.
+
+3. Open and run the Jupyter notebooks in the  directory in the specified order to follow the project's progression.
 
 ## Acknowledgments
 
 This project was developed for educational purposes and is based on a hypothetical telecom customer churn dataset. The dataset and project concept are for demonstration and learning purposes only.
 
-For any questions, suggestions, or collaborations, please feel free to reach out to [Your Name] at [your email].
+For any questions, suggestions, or collaborations, please feel free to reach out to Abdul Shaffay Qazi at abdulshaffayqazi@gmail.com.
 
 ---
 
